@@ -1,5 +1,5 @@
 //
-//  UIViewController_OtherController.h
+//  OtherController.h
 //  MyFirstJsonProject
 //
 //  Created by Victor on 2/24/15.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface UIViewController ()
+@interface OtherController : UIViewController
 
 @end

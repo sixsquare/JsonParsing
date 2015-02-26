@@ -6,8 +6,16 @@
 //  Copyright (c) 2015 Victor. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "ViewController.h"
+#import "JSON.h"
+#import "OtherController.h"
+@interface OtherController ()
 
-@interface UIViewController ()
+@end
+
+@implementation OtherController
+
+- (void)viewDidLoad {
+}
 
 @end

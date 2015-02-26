@@ -9,7 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UILabel *jsonLabel;
 
+@property(strong,nonatomic) NSDictionary  *jsonMainDictionary;
+
+- (NSDictionary *) indexKeyedDictionaryFromArray:(NSMutableArray *)array;
 
 @end
 

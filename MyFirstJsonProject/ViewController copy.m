@@ -8,7 +8,7 @@
 
 #import "ViewController.h"
 #import "JSON.h"
-#import "tableViewController.h"
+
 @interface ViewController ()
 
 @end
@@ -35,31 +35,12 @@
     NSString * strLocation = [[[loansArray lastObject] objectForKey:@"location"] objectForKey:@"country_code"];
     NSLog(@"Country Code: %@",strLocation);
     self.jsonLabel.text = strLocation;
-    
-    
-    UIBarButtonItem *myBarButton = [[UIBarButtonItem alloc] initWithTitle:@"My Title" style:UIBarButtonItemStyleDone target:self action:@selector(onPressDone:)];
-    
-    self.navigationItem.rightBarButtonItems = @[myBarButton];
 //    for (NSDictionary * dict in loansArray) {
 //        NSString * strLocation = [[dict objectForKey:@"location"] objectForKey:@"country_code"];
 //        NSLog(@"Country Code: %@",strLocation);
 //    }
    
 
-}
-//-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender
-//{
-//    tableViewController *destination = [segue destinationViewController];
-//    [destination.table reloadData];
-//}
-
-- (IBAction)onPressDone:(id)sender {
-    
-//    tableViewController *targetVC = (tableViewController*)sender.destinationViewController;
-//    targetVC.string1 = string1;
-    
-//    [self performSegueWithIdentifier:@"tableViewController" sender:sender];
-    
 }
 
 - (void)didReceiveMemoryWarning {
