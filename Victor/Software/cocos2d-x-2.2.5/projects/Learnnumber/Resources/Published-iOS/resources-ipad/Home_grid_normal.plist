@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Home_grid_normal/grid-block-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 689}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+		<key>Home_grid_normal/grid-block-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{173, 173}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+		<key>Home_grid_normal/grid-block-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{345, 1}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+		<key>Home_grid_normal/grid-block-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{689, 1}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+		<key>Home_grid_normal/grid-block-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+		<key>Home_grid_normal/grid-block-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 173}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+		<key>Home_grid_normal/grid-block-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 345}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+		<key>Home_grid_normal/grid-block-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 517}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+		<key>Home_grid_normal/grid-block-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{173, 1}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+		<key>Home_grid_normal/grid-block-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{517, 1}, {170, 170}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 170}}</string>
+			<key>sourceSize</key>
+			<string>{170, 170}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>Home_grid_normal.png</string>
+	</dict>
+</dict>
+</plist>

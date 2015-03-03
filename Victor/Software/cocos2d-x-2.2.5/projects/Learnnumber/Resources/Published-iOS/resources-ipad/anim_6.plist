@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>anim_6/1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{842, 102}, {103, 97}}</string>
+			<key>offset</key>
+			<string>{-23, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 10}, {103, 97}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{527, 102}, {103, 97}}</string>
+			<key>offset</key>
+			<string>{23, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{47, 10}, {103, 97}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{844, 1}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{19, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{43, 6}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{319, 1}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{16, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{40, 3}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{212, 100}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{12, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{36, 6}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{632, 102}, {103, 97}}</string>
+			<key>offset</key>
+			<string>{9, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{33, 10}, {103, 97}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{107, 100}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{6, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{30, 6}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{422, 201}, {102, 99}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{27, 3}, {102, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{317, 102}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 6}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{422, 102}, {103, 97}}</string>
+			<key>offset</key>
+			<string>{-3, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 10}, {103, 97}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{424, 1}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{-7, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 6}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {104, 99}}</string>
+			<key>offset</key>
+			<string>{-17, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 3}, {104, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 102}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{-10, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{13, 3}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 1}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{-13, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{10, 6}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{213, 1}, {104, 97}}</string>
+			<key>offset</key>
+			<string>{-17, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 10}, {104, 97}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{211, 201}, {103, 98}}</string>
+			<key>offset</key>
+			<string>{-13, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{10, 0}, {103, 98}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{739, 1}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{-7, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 6}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{737, 102}, {103, 97}}</string>
+			<key>offset</key>
+			<string>{0, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 10}, {103, 97}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{106, 201}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{6, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{30, 6}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 203}, {103, 98}}</string>
+			<key>offset</key>
+			<string>{13, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{37, 0}, {103, 98}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{634, 1}, {103, 99}}</string>
+			<key>offset</key>
+			<string>{19, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{43, 6}, {103, 99}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+		<key>anim_6/9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{107, 1}, {104, 97}}</string>
+			<key>offset</key>
+			<string>{23, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{46, 10}, {104, 97}}</string>
+			<key>sourceSize</key>
+			<string>{150, 107}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>anim_6.png</string>
+	</dict>
+</dict>
+</plist>
